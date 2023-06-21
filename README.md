@@ -1,1 +1,1 @@
-# library-managment-system
+# banking-managment-system
